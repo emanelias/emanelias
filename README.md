@@ -1,16 +1,13 @@
-## Hi there 👋
+## Que prazer em ter você aqui! 👋
 
-<!--
-**emanelias/emanelias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Quem sou? o que faço?
 
-Here are some ideas to get you started:
+- 📚Bem, sou Elias, um estudante apaixonado por tecnologia e meio ambiente
+  
+- 🍃 Gosto de me aprofundar e desenvolver sistemas relacionados à cidades inteligentes e desenvolvimento sustentável, ou seja, penso que a tecnologia deve facilitar nossas vidas e retornar qualidade de vida para a população.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 👯 Os projetos que aqui estarão são de interesse pessoal meu e exibem uma casca da minha trajetória como programador, são projetos básicos dos cursos da minha graduação, bem como projetos mais avançados voltados à pesquisa para computação.
+  
+Para contato profissional:
+- [Conecte-se comigo no Linkedin🤝](https://www.linkedin.com/in/eliasemanuel31/)
+  
