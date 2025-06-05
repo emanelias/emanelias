@@ -8,7 +8,7 @@ Quem sou? o que faço?
 
 - 🌐 Outra área que me interesso bastante é na automação de rede de computadores
 
-- 👯 Os projetos que aqui estarão são de interesse pessoal meu e exibem uma casca da minha trajetória como programador, são projetos básicos dos cursos da minha graduação, bem como projetos mais avançados voltados à pesquisa para computação. As linguagens que mais utilizo são Python, C e Java, mas dependem do contexto e problema.
+- 👯 Os projetos que aqui estarão são de interesse pessoal meu e exibem uma casca da minha trajetória como programador, são projetos básicos dos cursos da minha graduação, bem como projetos mais avançados voltados à pesquisa para computação. As linguagens que mais utilizo são C, Java e Python, mas o uso delas dependem do contexto e do problema.
   
 Para contato profissional:
 - [Conecte-se comigo no Linkedin🤝](https://www.linkedin.com/in/eliasemanuel31/)
